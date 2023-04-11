@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website project for showing how to use Git and Github together.
-Adding a line for rebasing example
+Adding a line for rebasing example,then more changes from my freature branch too.
 ## Purpose
 
 As stated above, the main purpose is to provide simple example for Git training demos.
